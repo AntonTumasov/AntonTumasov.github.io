@@ -4,7 +4,7 @@
   <title><![CDATA[Антон Тумасов. Сайт магистра]]></title>
   <link href="http://antontumasov.github.io/atom.xml" rel="self"/>
   <link href="http://antontumasov.github.io/"/>
-  <updated>2017-10-23T22:36:05+03:00</updated>
+  <updated>2017-10-23T23:40:28+03:00</updated>
   <id>http://antontumasov.github.io/</id>
   <author>
     <name><![CDATA[Anton Tumasov]]></name>
@@ -12,5 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Презентация]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/23/priezientatsiia/"/>
+    <updated>2017-10-23T23:29:57+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/23/priezientatsiia</id>
+    <content type="html"><![CDATA[<h2> Ссылка на презентацию по теме выпускной работы:</h2>
+
+<ul>
+<li> <a href="https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing">https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Литература]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/23/piervoie-zadaniie/"/>
+    <updated>2017-10-23T22:52:04+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/23/piervoie-zadaniie</id>
+    <content type="html"><![CDATA[<h2>Список литературы по теме выпускной работы:</h2>
+
+<ul>
+<li>НЕСТЕРЕНКО С.Ю., МИРАСОВ В.Ф. СОЗДАНИЕ И НАСТРОЙКА ВИРТУАЛЬНОГО КОМПЬЮТЕРНОГО КЛАССА НА БАЗЕ ОС LINUX,Красноярск,2016.-110с.</li>
+<li>К СОЗДАНИЮ ВИРТУАЛЬНЫХ КОМПЬЮТЕРНЫХ КЛАССОВ, ВИРТУАЛИЗАЦИИ ОБУЧЕНИЯ Крученецкий В.З., Серикулова Ж.К., Вязигин С.В., Крученецкий В.В. Вестник Алматинского технологического университета. 2015. - С. 37-43.</li>
+<li>ВИРТУАЛЬНЫЙ КОМПЬЮТЕРНЫЙ КЛАСС Шундеев А.С. Программная инженерия. 2014. № 7. С. 25-32.</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
