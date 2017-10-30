@@ -1,0 +1,8 @@
+---
+layout: post
+title: "7-1"
+date: 2017-10-30 23:40:50 +0300
+comments: true
+categories: 
+---
+### [7-1](https://docs.google.com/document/d/16eBwrIReBJRxgMlK_P_O2Yea0oJ-Ngj6FXSAwJf6km0/edit?usp=sharing)
