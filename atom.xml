@@ -4,7 +4,7 @@
   <title><![CDATA[Антон Тумасов. Сайт магистра]]></title>
   <link href="http://antontumasov.github.io/atom.xml" rel="self"/>
   <link href="http://antontumasov.github.io/"/>
-  <updated>2017-10-23T23:40:28+03:00</updated>
+  <updated>2017-10-30T22:14:47+03:00</updated>
   <id>http://antontumasov.github.io/</id>
   <author>
     <name><![CDATA[Anton Tumasov]]></name>
@@ -14,16 +14,20 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Тезаурус]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/30/tiezaurus/"/>
+    <updated>2017-10-30T22:11:30+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/30/tiezaurus</id>
+    <content type="html"><![CDATA[<h4><a href="https://docs.google.com/document/d/14rYhLNwtTv-54WAkvqFGUWthsPGG-NLMi5dzrpjlnf0/edit?usp=sharing">Google doc</a></h4>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Презентация]]></title>
     <link href="http://antontumasov.github.io/blog/2017/10/23/priezientatsiia/"/>
     <updated>2017-10-23T23:29:57+03:00</updated>
     <id>http://antontumasov.github.io/blog/2017/10/23/priezientatsiia</id>
-    <content type="html"><![CDATA[<h2> Ссылка на презентацию по теме выпускной работы:</h2>
-
-<ul>
-<li> <a href="https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing">https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing</a></li>
-</ul>
-
+    <content type="html"><![CDATA[<h3> <a href="https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing">Ссылка на презентацию по теме выпускной работы</a></h3>
 ]]></content>
   </entry>
   
