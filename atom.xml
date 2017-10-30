@@ -4,7 +4,7 @@
   <title><![CDATA[Антон Тумасов. Сайт магистра]]></title>
   <link href="http://antontumasov.github.io/atom.xml" rel="self"/>
   <link href="http://antontumasov.github.io/"/>
-  <updated>2017-10-31T01:16:39+03:00</updated>
+  <updated>2017-10-31T01:21:37+03:00</updated>
   <id>http://antontumasov.github.io/</id>
   <author>
     <name><![CDATA[Anton Tumasov]]></name>
@@ -14,64 +14,64 @@
 
   
   <entry>
-    <title type="html"><![CDATA[2-3]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/31/2-3/"/>
-    <updated>2017-10-31T01:14:41+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/31/2-3</id>
-    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/19mvA2W1E0mxq-pisb92ucBKsl_xbjc-2heIN8PoZ94I/edit?usp=sharing">2-3</a></h3>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[7-1]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/30/7-1/"/>
-    <updated>2017-10-30T23:40:50+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/30/7-1</id>
-    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/16eBwrIReBJRxgMlK_P_O2Yea0oJ-Ngj6FXSAwJf6km0/edit?usp=sharing">7-1</a></h3>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Задание4-1]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/30/zadaniie4-1/"/>
-    <updated>2017-10-30T23:23:01+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/30/zadaniie4-1</id>
+    <link href="http://antontumasov.github.io/blog/2017/10/24/zadaniie4-1/"/>
+    <updated>2017-10-24T23:23:01+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/24/zadaniie4-1</id>
     <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/1cf8QSCwBs32gzA44aKbWrOeVICdfnkvt1B91AbDkXa8/edit?usp=sharing">4-1</a></h3>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Задание4-2]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/30/zadaniie4-2/"/>
-    <updated>2017-10-30T22:36:40+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/30/zadaniie4-2</id>
+    <link href="http://antontumasov.github.io/blog/2017/10/24/zadaniie4-2/"/>
+    <updated>2017-10-24T22:36:40+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/24/zadaniie4-2</id>
     <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/1e-Nt_iQMaZ2hwdKgJX3oNP-VCDRAy_m8cAXrl1YaAI0/edit?usp=sharing">Ссылка</a></h3>
 ]]></content>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[2-3]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/24/2-3/"/>
+    <updated>2017-10-24T01:14:41+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/24/2-3</id>
+    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/19mvA2W1E0mxq-pisb92ucBKsl_xbjc-2heIN8PoZ94I/edit?usp=sharing">2-3</a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Тезаурус]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/30/tiezaurus/"/>
-    <updated>2017-10-30T22:11:30+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/30/tiezaurus</id>
+    <link href="http://antontumasov.github.io/blog/2017/10/22/tiezaurus/"/>
+    <updated>2017-10-22T22:11:30+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/22/tiezaurus</id>
     <content type="html"><![CDATA[<h4><a href="https://docs.google.com/document/d/14rYhLNwtTv-54WAkvqFGUWthsPGG-NLMi5dzrpjlnf0/edit?usp=sharing">Google doc</a></h4>
 ]]></content>
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[7-1]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/21/7-1/"/>
+    <updated>2017-10-21T23:40:50+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/21/7-1</id>
+    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/16eBwrIReBJRxgMlK_P_O2Yea0oJ-Ngj6FXSAwJf6km0/edit?usp=sharing">7-1</a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Презентация]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/23/priezientatsiia/"/>
-    <updated>2017-10-23T23:29:57+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/23/priezientatsiia</id>
+    <link href="http://antontumasov.github.io/blog/2017/10/19/priezientatsiia/"/>
+    <updated>2017-10-19T23:29:57+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/19/priezientatsiia</id>
     <content type="html"><![CDATA[<h3> <a href="https://docs.google.com/presentation/d/1kD9NVmBXN4gdlSWXsijBtMRnoVkRhdU6ZANV3jtHKP8/edit?usp=sharing">Ссылка на презентацию по теме выпускной работы</a></h3>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Литература]]></title>
-    <link href="http://antontumasov.github.io/blog/2017/10/23/piervoie-zadaniie/"/>
-    <updated>2017-10-23T22:52:04+03:00</updated>
-    <id>http://antontumasov.github.io/blog/2017/10/23/piervoie-zadaniie</id>
+    <link href="http://antontumasov.github.io/blog/2017/10/15/piervoie-zadaniie/"/>
+    <updated>2017-10-15T22:52:04+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/15/piervoie-zadaniie</id>
     <content type="html"><![CDATA[<h2>Список литературы по теме выпускной работы:</h2>
 
 <ul>
