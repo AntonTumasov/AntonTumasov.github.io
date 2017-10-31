@@ -4,7 +4,7 @@
   <title><![CDATA[Антон Тумасов. Сайт магистра]]></title>
   <link href="http://antontumasov.github.io/atom.xml" rel="self"/>
   <link href="http://antontumasov.github.io/"/>
-  <updated>2017-10-31T01:21:37+03:00</updated>
+  <updated>2017-10-31T11:42:02+03:00</updated>
   <id>http://antontumasov.github.io/</id>
   <author>
     <name><![CDATA[Anton Tumasov]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[6-1]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/10/31/6-1/"/>
+    <updated>2017-10-31T11:40:56+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/10/31/6-1</id>
+    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/1buum9vOU0BpwNKn2kcAgaAwNVtUQP-2dIkjb_TPsdos/edit?usp=sharing">6-1</a></h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Задание4-1]]></title>
