@@ -4,7 +4,7 @@
   <title><![CDATA[Антон Тумасов. Сайт магистра]]></title>
   <link href="http://antontumasov.github.io/atom.xml" rel="self"/>
   <link href="http://antontumasov.github.io/"/>
-  <updated>2017-10-31T11:44:52+03:00</updated>
+  <updated>2017-10-31T12:19:54+03:00</updated>
   <id>http://antontumasov.github.io/</id>
   <author>
     <name><![CDATA[Anton Tumasov]]></name>
@@ -89,6 +89,15 @@
 <li>ВИРТУАЛЬНЫЙ КОМПЬЮТЕРНЫЙ КЛАСС Шундеев А.С. Программная инженерия. 2014. № 7. С. 25-32.</li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Задание 1. План]]></title>
+    <link href="http://antontumasov.github.io/blog/2017/09/30/zadaniie-1-plan/"/>
+    <updated>2017-09-30T12:18:05+03:00</updated>
+    <id>http://antontumasov.github.io/blog/2017/09/30/zadaniie-1-plan</id>
+    <content type="html"><![CDATA[<h3><a href="https://docs.google.com/document/d/1EsSpNuEPBbo7FfY0SKW0GNr874McEFWA0TbzqH0yR8o/edit?usp=sharing">Ссылка на google doc</a></h3>
 ]]></content>
   </entry>
   
